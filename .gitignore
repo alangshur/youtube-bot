@@ -1,0 +1,9 @@
+# python
+__pycache__
+venv/
+env/
+.pyc
+
+# apple
+.DS_Store
+.icloud
