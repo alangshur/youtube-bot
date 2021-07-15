@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import numpy as np
 
-proxy_ip_port = '192.101.70.78:48335'
+proxy_ip_port = ''
 
 proxy = Proxy()
 proxy.proxy_type = ProxyType.MANUAL
