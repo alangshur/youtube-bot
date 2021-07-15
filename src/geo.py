@@ -4,7 +4,7 @@ class IPGeolocation:
 
     def __init__(self, 
                  api_address: str='https://api.ipgeolocation.io/ipgeo',
-                 api_key='6fada961a9334668872162dfc78639c5'):
+                 api_key=''):
 
         self.api_address = api_address
         self.api_key = api_key
